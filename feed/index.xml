@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Adrian Roque Portfolio</title>
+	<atom:link href="https://eyyddxx04.github.io/myportfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eyyddxx04.github.io/myportfolio</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Jun 2020 13:34:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>qweqwe</title>
+		<link>https://eyyddxx04.github.io/myportfolio/qweqwe-2/</link>
+					<comments>https://eyyddxx04.github.io/myportfolio/qweqwe-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2020 13:24:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/eydblog/?p=9</guid>
+
+					<description><![CDATA[qweqweqwe]]></description>
+										<content:encoded><![CDATA[
+<p>qweqweqwe</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://eyyddxx04.github.io/myportfolio/qweqwe-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>qweqwe</title>
+		<link>https://eyyddxx04.github.io/myportfolio/qweqwe/</link>
+					<comments>https://eyyddxx04.github.io/myportfolio/qweqwe/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2020 13:24:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/eydblog/?p=7</guid>
+
+					<description><![CDATA[qweqweqwe]]></description>
+										<content:encoded><![CDATA[
+<p>qweqweqwe</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://eyyddxx04.github.io/myportfolio/qweqwe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://eyyddxx04.github.io/myportfolio/hello-world/</link>
+					<comments>https://eyyddxx04.github.io/myportfolio/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2020 12:17:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/eydblog/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://eyyddxx04.github.io/myportfolio/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
