@@ -13,7 +13,7 @@ get_header(); ?>
 
             <div class="profile-pic">
 
-                <img src="http://localhost/eydblog/wp-content/uploads/2021/05/24273476_167926710470247_1564046955874155173_o.jpg" class="img-responsive">
+                <img src="./wp-content/uploads/2021/05/24273476_167926710470247_1564046955874155173_o.jpg" class="img-responsive">
 
                 </div>
 
